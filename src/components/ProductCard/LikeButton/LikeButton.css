@@ -1,0 +1,10 @@
+.like-button {
+	position: absolute;
+	right: 10px;
+	border-radius: 24px;
+	font-size: 0.75em;
+}
+
+img {
+	width: 14px;
+}
